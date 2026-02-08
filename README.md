@@ -52,7 +52,7 @@ real-estate-investor-analyzer-guide/
 1. Push to your GitHub repository
 2. Go to **Settings → Pages**
 3. Select your branch and folder
-4. Your site will be live at `https://yourusername.github.io/repository-name`
+4. Your site will be live at `https://rva-homeventures.github.io/real-estate-investor-analyzer-guide/`
 
 ## 📱 Pages Included
 
@@ -114,9 +114,10 @@ All documentation uses:
 
 ## 🔗 Related Projects
 
-- **Main Extension**: See `real-estate-investor-analyzer` folder
+- **Main Extension**: https://github.com/rva-homeventures/real-estate-investor-analyzer
 - **Chrome Web Store**: [Your extension link]
-- **Main Repository**: [Your repo link]
+- **Main Repository**: https://github.com/rva-homeventures/real-estate-investor-analyzer-guide
+- **Live Documentation Site**: https://rva-homeventures.github.io/real-estate-investor-analyzer-guide/
 
 ## 📝 License
 
